@@ -1,0 +1,6 @@
+{
+  "name": "Finora",
+  "description": "Modern personal finance and expense tracking dashboard with real-time spending analytics, category breakdowns, and seamless transaction management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
